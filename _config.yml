@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Hossein Torabzadeh"
-  avatar : "https://eng.basu.ac.ir/faculty?p_p_id=ir_sain_university_people_portlet_FacultyProfilePortlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=%2Funiversity_people%2Fperson_image&p_p_cacheability=cacheLevelPage&_ir_sain_university_people_portlet_FacultyProfilePortlet_universityPersonImageId=1031317&_ir_sain_university_people_portlet_FacultyProfilePortlet__ir_sain_university_people_FacultyHomePortlet_friendlyURLRequest=torabzadeh&_ir_sain_university_people_portlet_FacultyProfilePortlet_friendlyURLRequest=torabzadeh"
+  avatar : "assets/images/my-pic-01.jpeg"
   bio    : "Assistant professor of remote sensing in Bu-Ali Sina University, Hamedan, Iran"
   links:
     - label: "Website"
