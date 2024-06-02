@@ -23,7 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "air"
 search: true
-lang: fa_IR
+locale: "fa-IR"
 
 # Build settings
 markdown: kramdown
